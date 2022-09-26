@@ -24,7 +24,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/dileep k a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dileep k a" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/dileep-k-a-8713aa222/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dileep k a" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/dileep2608" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="dileep2608" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/u4elc21046" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="u4elc21046" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/dileep2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="dileep2003" height="30" width="40" /></a>
